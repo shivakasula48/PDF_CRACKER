@@ -1,0 +1,65 @@
+2025-07-26 11:01:23,831 - INFO - Starting decryption with 78074896 passwords...
+2025-07-26 11:06:20,909 - INFO - Starting decryption with 10000 passwords...
+2025-07-26 11:06:21,429 - INFO - [+] Password found: 1234
+2025-07-26 11:09:29,924 - INFO - Starting decryption with 9288 passwords...
+2025-07-26 11:09:30,383 - INFO - [+] Password found: 1234
+2025-07-26 11:24:29,955 - INFO - Starting decryption with 78905480 passwords...
+2025-07-26 11:27:21,793 - INFO - Starting decryption with 10000 passwords...
+2025-07-26 11:27:22,248 - INFO - [+] Password found for sample.pdf: 1234
+2025-07-26 11:27:22,279 - INFO - Password for sample.pdf: 1234
+2025-07-26 11:28:14,924 - INFO - Starting decryption with 78074896 passwords...
+2025-07-26 11:29:12,060 - ERROR - Error testing password aaab: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:29:25,785 - ERROR - Error testing password aaad: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:29:59,620 - ERROR - Error testing password aaac: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:30:00,461 - ERROR - Error testing password aaaa: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:30:41,494 - ERROR - Error testing password aaae: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:31:08,244 - ERROR - Error testing password aaah: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:31:09,663 - ERROR - Error testing password aaaf: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:31:14,012 - ERROR - Error testing password aaag: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:31:15,305 - ERROR - Error testing password aaai: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:31:30,584 - ERROR - Error testing password aaal: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:31:31,333 - ERROR - Error testing password aaak: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:31:31,795 - ERROR - Error testing password aaam: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:32:25,929 - ERROR - Error testing password aaaj: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:32:36,920 - ERROR - Error testing password aaan: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:32:47,338 - ERROR - Error testing password aaaq: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:33:00,829 - ERROR - Error testing password aaao: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:34:49,550 - INFO - Starting decryption with 78074896 passwords...
+2025-07-26 11:35:14,594 - ERROR - Error testing password aaad: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:35:19,143 - ERROR - Error testing password aaab: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:35:36,376 - ERROR - Error testing password aaaa: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:35:47,471 - ERROR - Error testing password aaag: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:35:47,595 - ERROR - Error testing password aaac: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:35:58,361 - ERROR - Error testing password aaaf: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:36:11,902 - ERROR - Error testing password aaae: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:36:24,665 - ERROR - Error testing password aaaj: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:36:26,327 - ERROR - Error testing password aaai: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:36:55,342 - ERROR - Error testing password aaam: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:36:55,356 - ERROR - Error testing password aaal: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:36:55,360 - ERROR - Error testing password aaak: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:36:58,800 - ERROR - Error testing password aaah: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:37:55,016 - ERROR - Error testing password aaan: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:37:56,448 - ERROR - Error testing password aaao: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:38:03,918 - ERROR - Error testing password aaap: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:38:04,130 - ERROR - Error testing password aaaq: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:38:07,153 - ERROR - Error testing password aaas: wordlist.txt: unable to find trailer dictionary while recovering damaged file
+2025-07-26 11:41:06,257 - ERROR - An error occurred: 'Namespace' object has no attribute 'generate'
+2025-07-26 11:44:30,741 - INFO - Starting decryption with 325 passwords...
+2025-07-26 11:44:30,794 - INFO - [+] Password found for sample.pdf: 1234
+2025-07-26 11:44:30,810 - INFO - Password for sample.pdf: 1234
+2025-07-26 11:44:30,811 - INFO - Time taken: 0.07 seconds
+2025-07-26 11:47:52,874 - INFO - Starting decryption with 326 passwords...
+2025-07-26 11:47:53,262 - INFO - [+] Password found for sample2.pdf: Shiva.90109866
+2025-07-26 11:47:53,264 - INFO - Password for sample2.pdf: Shiva.90109866
+2025-07-26 11:47:53,264 - INFO - Time taken: 0.39 seconds
+2025-07-26 11:48:57,407 - ERROR - An error occurred: 'Namespace' object has no attribute 'wordlist'
+2025-07-26 12:05:26,463 - ERROR - Failed to load wordlist: 'charmap' codec can't decode byte 0x8f in position 2782: character maps to <undefined>
+2025-07-26 12:05:26,464 - ERROR - An error occurred: 'charmap' codec can't decode byte 0x8f in position 2782: character maps to <undefined>
+2025-07-26 12:22:03,908 - INFO - Starting decryption with 99875 passwords...
+2025-07-26 12:24:45,007 - INFO - [+] Password found for Aadar.pdf: GADD2004
+2025-07-26 12:24:45,092 - INFO - Password for Aadar.pdf: GADD2004
+2025-07-26 12:24:45,093 - INFO - Time taken: 161.18 seconds
+2025-07-26 12:27:15,308 - INFO - Starting decryption with 99875 passwords...
+2025-07-26 12:27:16,635 - INFO - [+] Password found for sample2.pdf: Shiva.90109866
+2025-07-26 12:27:16,882 - INFO - Password for sample2.pdf: Shiva.90109866
+2025-07-26 12:27:16,883 - INFO - Time taken: 1.57 seconds
