@@ -28,7 +28,7 @@ Install the required packages using:
 ```bash
 pip install -r requirements.txt
 ```
-
+---
 
 ## 🧠 Usage
 
@@ -43,6 +43,7 @@ python pdf_cracker.py
 - Choose between wordlist or generated passwords  
 - Configure charset, length, threads, timeout, and save progress  
 
+---
 
 ### 🔸 Command-Line Mode
 
@@ -56,7 +57,7 @@ Or generate passwords on the fly:
 ```bash
 python pdf_cracker.py your_file.pdf --generate --min_length 1 --max_length 3 --charset abc123 --max_workers 4
 ```
-
+---
 
 ### 📝 Arguments
 
@@ -73,7 +74,7 @@ python pdf_cracker.py your_file.pdf --generate --min_length 1 --max_length 3 --c
 | `--timeout`      | Timeout in seconds (optional)                    |
 | `--progress_file`| Path to JSON file to save progress               |
 
-
+---
 
 ### 📄 Example
 
@@ -89,6 +90,9 @@ Generating passwords:
 python pdf_cracker.py secret.pdf --generate --min_length 2 --max_length 4 --charset abc123 --max_workers
 ```
 
+
+---
+
 ### 📁 Project Structure
 
 ```bash
@@ -101,6 +105,7 @@ pdf_cracker/
 ├── sample2.pdf             # sample pdf with strong password
 ├── wordlist.txt            # password file with approx 1,00,000 common passwords
 
+---
 
 ### 🛑 Disclaimer
 
@@ -110,11 +115,17 @@ The creator is **not responsible** for any unethical or illegal use.
 
 ---
 
-### 👨‍💻 Author
+## 🙌 Author
 
-**Shiva Kasula**  
-_B.Tech CSE - Cybersecurity_  
-📧 [shivakasula10@gmail.com](mailto:shivakasula10@gmail.com)  
-🌐 GitHub: [@shivakasula48](https://github.com/shivakasula48)
+**Kasula Shiva**  
+🎓 B.Tech CSE (Cybersecurity)  
+🔗 GitHub: [shivakasula48](https://github.com/shivakasula48)  
+📧 Email: [shivakasula10@gmail.com](mailto:shivakasula10@gmail.com)
 
+---
+
+# License
+
+This project is open-source and free to use by anyone for personal or educational purposes.  
+Feel free to modify, distribute, and use the code as long as proper credit is given to the original author, **Kasula Shiva**.
 
