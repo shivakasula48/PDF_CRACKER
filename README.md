@@ -104,7 +104,7 @@ pdf_cracker/
 ├── sample.pdf              # sample pdf with week password
 ├── sample2.pdf             # sample pdf with strong password
 ├── wordlist.txt            # password file with approx 1,00,000 common passwords
-
+```
 ---
 
 ### 🛑 Disclaimer
