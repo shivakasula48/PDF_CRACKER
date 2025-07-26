@@ -102,5 +102,19 @@ pdf_cracker/
 ├── wordlist.txt            # password file with approx 1,00,000 common passwords
 
 
+### 🛑 Disclaimer
+
+This project is strictly for **educational use** or with **explicit permission** from the file owner.  
+Misuse of this tool may violate terms of service, local or international laws.  
+The creator is **not responsible** for any unethical or illegal use.
+
+---
+
+### 👨‍💻 Author
+
+**Shiva Kasula**  
+_B.Tech CSE - Cybersecurity_  
+📧 [shivakasula10@gmail.com](mailto:shivakasula10@gmail.com)  
+🌐 GitHub: [@shivakasula48](https://github.com/shivakasula48)
 
 
